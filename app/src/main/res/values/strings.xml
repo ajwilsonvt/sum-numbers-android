@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Sum Numbers</string>
+    <string name="textView">Type a number:</string>
+    <string name="button">Calculate</string>
+    <string name="textView3">Type a number [0, 65535]</string>
+    <string name="empty"></string>
+    <string name="showResult">%1$d</string>
+    <string name="status">Sum of whole numbers (0, %1$d]</string>
+    <string name="error">%1$s</string>
+</resources>
